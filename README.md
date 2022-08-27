@@ -1,4 +1,13 @@
 ```
+effective table chip stacks
+1) 3500 x number of players
+2) count add ons. ..., which could last all night.
+
+we could have 2 people using the app updating their tables which would help keep from one user doing all of the work.
+```
+
+
+```
 Details, 
 1) use terminal to drive
 2) use excel to drive
