@@ -4,6 +4,8 @@ effective table chip stacks
 2) count add ons. ..., which could last all night.
 
 we could have 2 people using the app updating their tables which would help keep from one user doing all of the work.
+
+elixir, with sockets , requiring server socket architecture.
 ```
 
 
